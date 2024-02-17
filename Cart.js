@@ -31,4 +31,4 @@ const Cart = ({ items, removeFromCart, updateQuantity }) => {
   );
 };
 
-export default Cart;￼Enter
+export default Cart;
